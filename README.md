@@ -1,0 +1,2 @@
+# sailsRelations
+### a Sails application
