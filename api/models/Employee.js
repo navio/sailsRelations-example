@@ -14,7 +14,9 @@ module.exports = {
 
   	info: 'string', description: 'string',
 
-  	company: { model: 'company' }   	
+  	company: { model: 'company' },
+
+  	tasks: { collection: 'task'}  	
     
   }
 
